@@ -88,6 +88,6 @@ dotnet fsi hello.fsx
 
 <p>Moyenne des élements d'une liste<br/>
   Ajout d'un élément à une liste<br/>
-Zip une liste (une fonction qui prend en argument deux listes [a, b] [c, d] et renvoie [(a,c), (d, d)])</p>
+Zip deux listes (une fonction qui prend en argument deux listes [a, b] [c, d] et renvoie [(a,c), (d, d)])</p>
 
 
