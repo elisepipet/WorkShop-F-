@@ -80,13 +80,14 @@ dotnet fsi hello.fsx
 
 <p>Tri d'une liste : <br/>Ecrivez une fonction qui prend en paramètre une liste et renvoie la liste triée.<br/></p>
 
-<h2>Exercice 14</h2>
+<h2>Exercice 13</h2>
 
 <p>Faire un getline : <br/>Ecrivez une fonction qui lit l'entrée standard et affiche son contenu.<br/></p>
 
 <h2>Bonus...</h2>
 
 <p>Moyenne des élements d'une liste<br/>
-  Ajout d'un élément à une liste<br/></p>
+  Ajout d'un élément à une liste<br/>
+Zip une liste (une fonction qui prend en argument deux listes [a, b] [c, d] et renvoie [(a,c), (d, d)])</p>
 
 
