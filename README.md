@@ -7,6 +7,11 @@
 ```
 sudo dnf install dotnet
 ```
+<h3>Sur Ubuntu</h3>
+
+```
+sudo apt install dotnet
+```
 <h3>Sur MacOS</h3>
 
 ```
