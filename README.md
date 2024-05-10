@@ -47,7 +47,7 @@ dotnet fsi hello.fsx
 
 <h2>Exercice 3</h2>
 
-<p>Le plus petit : <br/>Ecrivez une fonction qui prend en paramètres deux Ints et le plus petit des deux.<br/></p>
+<p>Le plus petit : <br/>Ecrivez une fonction qui prend en paramètres deux Ints et renvoie le plus petit des deux.<br/></p>
 
 <h2>Exercice 4</h2>
 
@@ -91,8 +91,8 @@ dotnet fsi hello.fsx
 
 <h2>Bonus...</h2>
 
-<p>Moyenne des élements d'une liste<br/>
+<p>Moyenne des élements d'une liste de Ints<br/>
   Ajout d'un élément à une liste<br/>
-Zip deux listes (une fonction qui prend en argument deux listes [a, b] [c, d] et renvoie [(a,c), (d, d)])</p>
+Zip deux listes (une fonction qui prend en argument deux listes [a, b] [c, d] et renvoie [(a,c), (b, d)])</p>
 
 
