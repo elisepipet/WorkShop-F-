@@ -17,6 +17,12 @@ sudo apt install dotnet
 ```
 brew install dotnet
 ```
+
+<h3>Pour ceux qui sont sur MacOS mais qui n'auraient pas HomeBrew</h3>
+
+```
+https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+```
 <h4>Pour checker l'installation</h4>
 
 ```
