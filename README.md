@@ -73,7 +73,7 @@ dotnet fsi hello.fsx
 
 <h2>Exercice 8</h2>
 
-<p>Transformer un température en dégrés Celsuis en Fahrenheint :<br/>Ecrivez une fonction qui prend en paramètre une température en dégrés et la renvoie en Fahrenheint.<br/></p>
+<p>Transformer une température en dégrés Celsuis en Fahrenheint :<br/>Ecrivez une fonction qui prend en paramètre une température en dégrés et la renvoie en Fahrenheint.<br/></p>
 
 <h2>Exercice 9</h2>
 
