@@ -29,6 +29,12 @@ https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 dotnet fsi
 ```
 
+<h4>Extension VSCode</h4>
+
+```
+Ionide for F#
+```
+
 <h2>Petit exemple d'un Hello World en F#</h2>
 
 ```fsharp
